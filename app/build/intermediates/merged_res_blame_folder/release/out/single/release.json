@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_get_start_timitory.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable-mdpi\\ic_get_start_timitory.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_get_start_timitory.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable-xxhdpi\\ic_get_start_timitory.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable_field_text_line.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable\\field_text_line.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_finish.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\layout\\activity_finish.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_primary.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable\\btn_primary.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient_primary.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable\\gradient_primary.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_personal_form.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\layout\\activity_personal_form.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_get_start_timitory.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_get_start_timitory.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_get_start_timitory.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable-xhdpi\\ic_get_start_timitory.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_get_start_timitory.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable-hdpi\\ic_get_start_timitory.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_secondary.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable\\btn_secondary.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\font_nunito_bold.ttf.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\font\\nunito_bold.ttf"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_verify_code.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\layout\\activity_verify_code.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\font_rubik_regular.ttf.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\font\\rubik_regular.ttf"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Riset\\Android\\monitory\\app\\build\\intermediates\\res\\merged\\release\\drawable_field_text.xml.flat",
+        "source": "D:\\Riset\\Android\\monitory\\app\\src\\main\\res\\drawable\\field_text.xml"
+    }
+]
